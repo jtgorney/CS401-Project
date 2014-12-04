@@ -76,6 +76,8 @@ namespace BankingLiveSupportServer
                         }
                         numAttempts++;
                         Console.WriteLine("Server failed " + numAttempts + " times. Attempting to restart..." + Environment.NewLine);
+                        //Wait 6 seconds before trying again
+                        System.Threading.Thread.Sleep(6000);
                         running = false;
                     }
                 }
