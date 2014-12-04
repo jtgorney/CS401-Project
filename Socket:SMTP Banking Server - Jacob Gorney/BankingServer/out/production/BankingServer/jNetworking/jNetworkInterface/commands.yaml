@@ -1,0 +1,7 @@
+ping: Ping
+getshares: GetShares
+withdraw: Withdraw
+deposit: Deposit
+getinfo: GetInfo
+isvalid: IsValid
+history: History

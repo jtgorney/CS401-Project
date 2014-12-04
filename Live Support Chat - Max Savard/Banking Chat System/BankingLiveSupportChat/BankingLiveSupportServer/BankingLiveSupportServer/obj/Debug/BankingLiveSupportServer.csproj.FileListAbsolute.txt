@@ -1,0 +1,18 @@
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.csprojResolveAssemblyReference.cache
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe.config
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.exe
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.pdb
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.pdb
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.csprojResolveAssemblyReference.cache
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe.config
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.exe
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.pdb
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.exe
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\bin\Debug\BankingLiveSupportServer.pdb
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportServer\BankingLiveSupportServer\obj\Debug\BankingLiveSupportServer.csprojResolveAssemblyReference.cache

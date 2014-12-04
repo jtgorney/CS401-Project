@@ -1,0 +1,76 @@
+/* Code by: Matt Mossner */
+
+/* All elements use sans-serif font */
+*
+{
+   font-family: sans-serif;
+}
+
+/* Add a border to the top of the page, remove margins, and add padding */
+body
+{
+   border: solid darkgreen;
+   border-width: 3em 0 0 0;
+   margin: 0;
+   padding: 1em;
+}
+
+/* Put the main header at the top of the page, color it white, remove all margins and set its font size */
+h1
+{
+   position: absolute;
+   top: 0;
+   color: white;
+   margin: 0;
+   font-size: 2em;
+}
+
+/* Set the font size of labels and vertically align them */
+label
+{
+   font-size: 1.5em;
+   vertical-align: middle;
+}
+
+/* Labels for valid fields are dark green */
+label.valid
+{
+   color: darkgreen;
+}
+
+/* Labels for invalid data fields are red */
+label.invalid, p
+{
+   color: red;
+}
+
+/* Valid fields are white */
+input.valid
+{
+   background-color: white;
+}
+
+/* Invalid fields are white */
+input.invalid
+{
+   background-color: yellow;
+}
+
+/* Separate #button and #pin by 2em */
+#button, #pin
+{
+   margin-left: 2em;
+}
+
+/* Indent error messages and add space above error block */
+#error
+{
+   text-indent: 2em;
+   margin-top: 2em;
+}
+
+/* Paragraphs have no margin space */
+p
+{
+   margin: 0;
+}

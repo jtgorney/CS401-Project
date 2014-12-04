@@ -1,0 +1,24 @@
+<!--Coded by Matt Mossner-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="accountform.css" />
+	<script type="text/javascript" src="accountform.js"></script>
+</head>
+<body>
+	<h1>Account Login</h1>
+	<form id="login" action="statement.php" method="post">
+		<span id="acct">
+			<label id="acctlabel" class="valid" for="acctbox">Account Number: </label>
+			<input id="acctbox" class="valid" type="password" name="acctNum" />
+		</span>
+		<span id="pin">
+			<label id="pinlabel" class="valid" for="pinbox">PIN: </label>
+			<input id="pinbox" class="valid" type="password" name="pin" size="4" maxlength="4" />
+		</span>
+		<input id="button" type="button" value="Retrieve Statement" onclick="onSubmit()"/>
+	</form>
+</body>
+</html>

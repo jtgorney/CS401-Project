@@ -1,0 +1,27 @@
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.frmClient.resources
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe.config
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.exe
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.pdb
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.pdb
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csprojResolveAssemblyReference.cache
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.frmClient.resources
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.Properties.Resources.resources
+C:\Users\Max\Downloads\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csproj.GenerateResource.Cache
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe.config
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.exe
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.pdb
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csprojResolveAssemblyReference.cache
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.frmClient.resources
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.Properties.Resources.resources
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\obj\Debug\BankingLiveSupportClient.csproj.GenerateResource.Cache
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.exe
+C:\Users\Max\SkyDrive\Documents\CS401\CS401 Project\BankingLiveSupportChat\BankingLiveSupportClient\BankingLiveSupportClient\bin\Debug\BankingLiveSupportClient.pdb
